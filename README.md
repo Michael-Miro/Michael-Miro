@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Michael-Miro
-- 👀 I’m interested in Python , C++ , C , MATLAB ,VHDL
-- 🌱 I’m currently learning electrical engineering
 - 📫 How to reach me MichaelMiro1994@gmail.com
 
 <!---
