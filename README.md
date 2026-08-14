@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michael-Miro
-- 📫 How to reach me MichaelMiro1994@gmail.com
+- 📫 How to reach me michael1.miro@gmail.com
 
 <!---
 Michael-Miro/Michael-Miro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
